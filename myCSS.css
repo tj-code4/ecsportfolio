@@ -44,7 +44,11 @@ body {
 	float: left;
 	width: 100%;
 	text-align: left;
-}
+	img {
+  float: right;
+  width: 200px;
+  margin: 20px;
+}}
 .footer {
 	background: #62849E;
 	margin: 0px;
