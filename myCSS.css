@@ -34,15 +34,15 @@ body {
 	margin: 10px;
 	padding: 0px;
 	float: left;
-	width: 100%;
+	
 	text-align: left;
 }
 .contentlax {
 	background: #F2EBE1;
 	margin: 10px;
 	padding: 0px;
-	float: left;
-	width: 100%;
+	float: right;
+	
 	text-align: left;
 	img {
   float: right;
